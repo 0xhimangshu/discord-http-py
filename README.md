@@ -23,11 +23,11 @@ You may also suggest changes by forking this repo and creating a pull request or
   ```
 2. Install the requirements (Sorry i use reqs instead of requirements)
   ```sh
-  python -m pip install -U -r reqs.txt
+  python -m pip install -U -r requirements.txt
   ```
 3. Create a discord application and bot on [Discord Developer Portal](https://discord.com/developers/applications)
 4. Rename the [example.config.py](https://github.com/0xhimangshu/discord-http-py/blob/master/example.config.py) file to config.py
-5. Complete the .env file with your bot token, application id and public key from the discord developer portal.
+5. Complete the config.py file with your bot token, application id and public key from the discord developer portal.
 6. Edit commands in [commands.py](https://github.com/0xhimangshu/discord-http-py/blob/master/commands.py)
 * Note: You will have to run upsert.py before main.py to upload your slash commands to discord.
 7. Run the bot
