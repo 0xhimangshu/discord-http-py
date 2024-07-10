@@ -41,6 +41,6 @@ You may also suggest changes by forking this repo and creating a pull request or
   ```
 10. Copy the https url from the ngrok terminal and paste it in the discord developer portal in the interaction section.
 11. You are done! Now you can use your bot in any server you want.
-13. This is serverless hosting so it wont cost you much :wink:
+12. This is serverless hosting so it wont cost you much :wink:
 ## Join discord server if you want to
 [![Discord](https://img.shields.io/badge/Discord-000000.svg?style=for-the-badge&logo=discord&logoColor=white&logoSize=auto)](https://discord.gg/kBUegfgYkg)
