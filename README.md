@@ -21,7 +21,7 @@ You may also suggest changes by forking this repo and creating a pull request or
   ```sh
   git clone https://github.com/0xhimangshu/discord-http-py
   ```
-2. Install the requirements (Sorry i use reqs instead of requirements)
+2. Install the requirements
   ```sh
   python -m pip install -U -r requirements.txt
   ```
